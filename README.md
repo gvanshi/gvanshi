@@ -3,12 +3,18 @@ Welcome to my GitHub profile! I'm Vanshika Gupta, a passionate B.Tech student fr
 **About Me**
 
 🌱 I'm currently learning new technologies and frameworks.
+
 🔭 I’m currently working on enhancing my skills in Python and frontend development.
+
 👯 I’m looking to collaborate on open-source projects and innovative ideas.
+
 🤔 I’m looking for help with advanced data structures and algorithms.
+
 📫 You can reach me at gvanshika170@gmail.com.
-😄 Pronouns: She/Her.
-⚡ Fun fact: I'm also an avid reader and love exploring different genres of books.
+
+**😄 Pronouns:** She/Her.
+
+**⚡ Fun fact:** I'm also an avid reader and love exploring different genres of books.
 
 **Projects**
 Here are some of the projects I've worked on:
